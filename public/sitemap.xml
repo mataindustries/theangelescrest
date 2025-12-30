@@ -8,4 +8,8 @@
     <loc>https://theangelescrest.com/ac100-guide.html</loc>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://theangelescrest.com/solo-playbook.html</loc>
+    <priority>0.8</priority>
+  </url>
 </urlset>
