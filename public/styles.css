@@ -307,3 +307,41 @@ body {
   font-size: 0.85rem;
   color: var(--text-muted);
 }
+
+.about {
+  padding: 72px 24px 56px;
+  background: #020617;
+}
+
+.about__inner {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.about__tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: rgba(45, 71, 57, 0.4);
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+
+.about h2 {
+  margin-top: 0;
+  color: var(--text-main);
+  font-size: 1.7rem;
+}
+
+.about p {
+  margin-top: 10px;
+}
+
+.about__links a {
+  color: var(--accent);
+  text-decoration: none;
+}
