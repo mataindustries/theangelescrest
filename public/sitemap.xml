@@ -20,4 +20,6 @@
     <loc>https://theangelescrest.com/ac100-50-mile-qualifier.html</loc>
     <priority>0.8</priority>
   </url>
+  <url><loc>https://theangelescrest.com/ac100-shoes.html</loc><priority>0.8</priority>
+  </url>
 </urlset>
