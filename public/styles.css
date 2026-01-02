@@ -345,3 +345,52 @@ body {
   color: var(--accent);
   text-decoration: none;
 }
+
+/* AC shoes page helpers (safe, namespaced) */
+.ac-callout {
+  border: 1px solid rgba(255,255,255,.12);
+  padding: 12px 14px;
+  border-radius: 12px;
+  margin-top: 12px;
+}
+
+.ac-inline-links {
+  margin-top: 10px;
+  opacity: 0.9;
+}
+
+.ac-grid {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+@media (max-width: 720px) {
+  .ac-grid { grid-template-columns: 1fr; }
+}
+
+.ac-card {
+  border: 1px solid rgba(255,255,255,.12);
+  border-radius: 14px;
+  padding: 14px;
+}
+
+.ac-btn-row { margin-top: 10px; }
+
+.ac-btn {
+  display: inline-block;
+  padding: 10px 12px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,.16);
+  text-decoration: none;
+}
+
+.ac-btn--primary {
+  border-width: 2px;
+}
+
+.ac-footnote {
+  margin-top: 10px;
+  opacity: 0.85;
+  font-size: 0.95em;
+}
