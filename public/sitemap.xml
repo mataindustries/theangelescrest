@@ -1,25 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://theangelescrest.com/</loc>
     <priority>1.0</priority>
   </url>
+
   <url>
     <loc>https://theangelescrest.com/ac100-guide.html</loc>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
-  <url>
-    <loc>https://theangelescrest.com/solo-playbook.html</loc>
-    <priority>0.8</priority>
-  </url>
+
   <url>
     <loc>https://theangelescrest.com/gear.html</loc>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
+
+  <url>
+    <loc>https://theangelescrest.com/ac100-shoes.html</loc>
+    <priority>0.9</priority>
+  </url>
+
   <url>
     <loc>https://theangelescrest.com/ac100-50-mile-qualifier.html</loc>
     <priority>0.8</priority>
   </url>
-  <url><loc>https://theangelescrest.com/ac100-shoes.html</loc><priority>0.8</priority>
+
+  <url>
+    <loc>https://theangelescrest.com/solo-playbook.html</loc>
+    <priority>0.8</priority>
   </url>
+
+  <url>
+    <loc>https://theangelescrest.com/ac100-headlamps.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://theangelescrest.com/ac100-hydration-vests.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://theangelescrest.com/ac100-gps-watches.html</loc>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>
