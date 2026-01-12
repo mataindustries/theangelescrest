@@ -394,3 +394,20 @@ body {
   opacity: 0.85;
   font-size: 0.95em;
 }
+
+/* Page hero image (guide pages) */
+.page__hero-media {
+  margin-top: 16px;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid var(--border-subtle);
+  aspect-ratio: 16 / 9;
+  background: #020617;
+}
+
+.page__hero-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
