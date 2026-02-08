@@ -22,11 +22,6 @@
   </url>
 
   <url>
-    <loc>https://theangelescrest.com/ac100-50-mile-qualifier.html</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://theangelescrest.com/solo-playbook.html</loc>
     <priority>0.8</priority>
   </url>
@@ -43,6 +38,57 @@
 
   <url>
     <loc>https://theangelescrest.com/ac100-gps-watches.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- AC100 Qualifiers cluster -->
+  <url>
+    <loc>https://theangelescrest.com/ac100/qualifiers/50-milers/</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://theangelescrest.com/ac100/qualifiers/first-50-miler/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://theangelescrest.com/ac100/qualifiers/griffith-park-50-mile/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://theangelescrest.com/ac100/qualifiers/ray-miller-50-miler/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://theangelescrest.com/ac100/qualifiers/sean-obrien-50-miler/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://theangelescrest.com/ac100/qualifiers/leona-divide-50-mile/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://theangelescrest.com/ac100/qualifiers/avalon-benefit-50-mile/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://theangelescrest.com/ac100/qualifiers/old-pueblo-50-mile/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://theangelescrest.com/ac100/qualifiers/american-river-50/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://theangelescrest.com/ac100/qualifiers/pct-50/</loc>
     <priority>0.8</priority>
   </url>
 
