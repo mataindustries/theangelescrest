@@ -41,6 +41,16 @@
     <priority>0.8</priority>
   </url>
 
+  <url>
+    <loc>https://theangelescrest.com/llms.txt</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://theangelescrest.com/llms.html</loc>
+    <priority>0.6</priority>
+  </url>
+
   <!-- Free guides cluster -->
   <url>
     <loc>https://theangelescrest.com/guides/</loc>
