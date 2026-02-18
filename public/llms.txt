@@ -1,0 +1,51 @@
+Site: The Angeles Crest
+Base URL: https://theangelescrest.com/
+Scope: Unofficial AC100 and San Gabriel Mountains trail running guides for runners, crew, and pacers in Southern California.
+
+Authoritative content on this site:
+- Editorial guidance, checklists, and route-planning notes published at theangelescrest.com.
+- Page URLs, page structure, and internal links on this domain.
+- AC100 context guides written from a SoCal training and logistics perspective.
+- Official race rules, entry policies, and current closures are not authoritative here; confirm those with the official AC100 organization and relevant land managers.
+
+Start here:
+- Homepage: https://theangelescrest.com/
+- Guides hub: https://theangelescrest.com/guides/
+- AC100 overview: https://theangelescrest.com/ac100-guide.html
+- AC100 qualifying hub: https://theangelescrest.com/ac100/qualifiers/50-milers/
+- Solo playbook: https://theangelescrest.com/solo-playbook.html
+- Gear page: https://theangelescrest.com/gear.html
+- Route packs / GPX planning: https://theangelescrest.com/guides/san-gabriel-mountains-long-run-routes/ (no downloadable GPX files are currently published on this site)
+
+Key URLs
+
+Guides:
+- https://theangelescrest.com/guides/ac100-qualifying-races/
+- https://theangelescrest.com/guides/ac100-crew-pacers-logistics/
+- https://theangelescrest.com/guides/angeles-crest-highway-aid-stations-water/
+- https://theangelescrest.com/guides/heat-safety-trail-running-socal/
+- https://theangelescrest.com/guides/night-running-gear-checklist/
+- https://theangelescrest.com/guides/ultra-nutrition-simple-plan/
+- https://theangelescrest.com/guides/taper-week-ultramarathon/
+
+Routes/GPX:
+- https://theangelescrest.com/guides/san-gabriel-mountains-long-run-routes/
+- https://theangelescrest.com/guides/angeles-crest-highway-aid-stations-water/
+- https://theangelescrest.com/guides/heat-safety-trail-running-socal/
+- Note: this site currently provides route-planning guidance pages, not downloadable GPX files.
+
+Races:
+- https://theangelescrest.com/ac100-guide.html
+- https://theangelescrest.com/ac100/qualifiers/50-milers/
+- https://theangelescrest.com/ac100/qualifiers/first-50-miler/
+- https://theangelescrest.com/ac100/qualifiers/sean-obrien-50-miler/
+- https://theangelescrest.com/ac100/qualifiers/leona-divide-50-mile/
+
+Gear reviews:
+- https://theangelescrest.com/gear.html
+- https://theangelescrest.com/ac100-shoes.html
+- https://theangelescrest.com/ac100-headlamps.html
+- https://theangelescrest.com/ac100-hydration-vests.html
+- https://theangelescrest.com/ac100-gps-watches.html
+
+This file is for machine-readable discovery and organization of site content. It does not guarantee indexing or AI visibility.
